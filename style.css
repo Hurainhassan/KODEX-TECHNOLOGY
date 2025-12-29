@@ -1,0 +1,42 @@
+:root{
+    --bghero:#1090CB1A;
+    --color:#1090CB
+}
+.hero{
+   background-color:var(--bghero) ;
+}
+.button{
+    background-color: var(--color);
+    color:white;
+}
+.outline{
+    border-color: var(--color);
+    color: var(--color);
+}
+.background{
+    background-color: #EFEAFF;;
+}
+.happy{
+background-color: #08D3BB;
+width: 50px;
+height: 50px;
+border-radius: 30px;
+}
+.happy2{
+    background-color: #1090CB;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+.happy3{
+    background-color:#9208D3;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+.column{
+    display: flex;
+}
+.color{
+    color: var(--color);
+}
