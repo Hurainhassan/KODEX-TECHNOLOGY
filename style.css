@@ -2,8 +2,12 @@
     --bghero:#1090CB1A;
     --color:#1090CB
 }
-.hero{
+section{
+   width: 100% !important;
    background-color:var(--bghero) ;
+}
+.home{
+    color: var(--color)!important;
 }
 .button{
     background-color: var(--color);
@@ -14,7 +18,10 @@
     color: var(--color);
 }
 .background{
-    background-color: #EFEAFF;;
+    background-color: #EFEAFF;
+    width: 50px;
+    height: 50px;
+    text-align: center;
 }
 .happy{
 background-color: #08D3BB;
