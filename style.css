@@ -47,3 +47,26 @@ border-radius: 30px;
 .color{
     color: var(--color);
 }
+.btncolor{
+    background-color:white;
+    border-color: var(--color);
+    color: var(--color);
+}
+.colorbtn{
+        background-color: var(--color);
+            color:white;
+}
+.subscribebutton{
+    background-color:black ;
+    width: 120px!important;
+    color: white;
+}
+.cardcolor{
+    background-color:#F4F4F4;
+    padding-top: 80px;
+}
+.cardcolor2{
+    background-color: var(--color);
+    padding-top: 80px;
+    color: white;
+}
